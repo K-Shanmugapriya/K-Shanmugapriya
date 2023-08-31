@@ -5,7 +5,7 @@
  - 📫 Reach me on LinkedIn,Gmail.
 
    <h3>My Repositories</h3>
- - 1.<a href="https://github.com/K-Shanmugapriya/youtube-clone" class="btn">YouTube Clone</a>
-   2.<a href="https://github.com/K-Shanmugapriya/portfolio" class="btn">Portfolio</a>
+ - 1.<a href="https://github.com/K-Shanmugapriya/youtube-clone" class="btn">YouTube Clone</a><br>
+ - 2.<a href="https://github.com/K-Shanmugapriya/portfolio" class="btn">Portfolio</a>
 
 
